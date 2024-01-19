@@ -175,25 +175,6 @@ Implante o Flowise auto-hospedado em sua infraestrutura existente, suportamos v�
 
       </details>
 
-## 💻 Hospedagem na Nuvem
-
-Em breve
-
-## 🙋 Suporte
-
-Sinta-se à vontade para fazer perguntas, relatar problemas e solicitar novos recursos na [discussão](https://github.com/FlowiseAI/Flowise/discussions)
-
-## 🙌 Contribuições
-
-Agradecemos a esses incríveis colaboradores
-
-<a href="https://github.com/FlowiseAI/Flowise/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=FlowiseAI/Flowise" />
-</a>
-
-Veja o [guia de contribuição](CONTRIBUTING.md). Entre em contato conosco no [Discord](https://discord.gg/jbaHfsRVBW) se tiver alguma dúvida ou problema.
-[![Gráfico de Histórico de Estrelas](https://api.star-history.com/svg?repos=FlowiseAI/Flowise&type=Timeline)](https://star-history.com/#FlowiseAI/Flowise&Date)
-
 ## 📄 Licença
 
 O código fonte neste repositório está disponível sob a [Licença Apache Versão 2.0](LICENSE.md).
